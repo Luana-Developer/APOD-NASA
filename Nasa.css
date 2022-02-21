@@ -1,0 +1,71 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #6b6a6a;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-family: 'Righteous', cursive;
+}
+
+#rodape {
+    color: #000;
+    width: 100%;
+    height: 70%;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'ABeeZee', sans-serif;
+    font-weight: bold;
+}
+
+#data {
+    padding-right: 20px;
+}
+
+#descricao {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 40px;
+    color: #000;
+    font-family: 'ABeeZee', sans-serif;
+    text-align: justify-all;
+    background-color: #f1f1f1d9;
+    border-radius: 10px;
+}
+
+#datinha {
+    background-color: rgb(66, 65, 65);
+    border-radius: 5px;
+    border: 2px solid #f1f1f1;
+    font-weight: bold;
+    font-family: 'ABeeZee', sans-serif;
+}
+
+#buttondata {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+    border: 2px solid rgb(66, 65, 65);
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    font-family: 'ABeeZee', sans-serif;
+}
+
+#imagem {
+    width: 50%;
+    height: 50%;
+}
+
+
+.form {
+    margin-top: 20px;
+}
